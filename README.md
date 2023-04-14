@@ -50,5 +50,5 @@ Please adhere to this project's `code of conduct`.
 
 Here is another related project:
 
-[Real Estate Price Predictor](https://github.com/manisha-nair28)
+[`Real Estate Price Predictor`](https://github.com/manisha-nair28/Real-Estate-Price-Predictor)
 
